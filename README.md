@@ -31,3 +31,10 @@ This project was developed to automate expense management among roommates, reduc
 ## 🔒 Note
 The source code is in Uzbek (Cyrillic), and some labels remain untranslated. However, all logic and structure are fully functional and represent real-world use.
 
+## ⚙️ Installation
+
+1. Download the `.cf` configuration file from this repository.
+2. Open **1C:Enterprise Configuration Mode**.
+3. Choose **Configuration → Load Configuration from File...** and select the `.cf` file.
+4. Apply changes and update the database configuration if prompted.
+5. Run the application in **Enterprise (user) mode**.
