@@ -1,2 +1,33 @@
-# Expense-Tracker-Automation
-Desktop expense tracking system built in 1C
+# Expense Tracker Automation
+
+A desktop-based system built in **1C:Enterprise** for tracking shared expenses among roommates (*"xonadoshlar"* in Uzbek).  
+The project was created to simplify the process of managing debts, expenses, and repayments within a shared apartment.
+
+---
+
+## 💡 Features
+- Record who borrowed or lent money and for what purpose  
+- Automatically calculate debts between all roommates  
+- View clear summary reports:  
+  - *Who owes whom and how much*  
+  - *Total debts and repayments*  
+  - *Expense analysis and balance tracking*  
+- Simple and intuitive interface in Uzbek language  
+
+---
+
+## ⚙️ Technologies
+- **1C:Enterprise platform**
+- **Desktop application**
+- **Local data storage**
+
+---
+
+## 📊 Purpose
+This project was developed to automate expense management among roommates, reducing calculation errors and improving transparency in shared financial activities.
+
+---
+
+## 🔒 Note
+The source code is in Uzbek (Cyrillic), and some labels remain untranslated. However, all logic and structure are fully functional and represent real-world use.
+
